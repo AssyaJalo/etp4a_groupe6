@@ -179,7 +179,7 @@ footer a {
   }
   footer {
     background-color: #f2f2f2;
-    padding: 20px;
+    padding: 5px;
     font-size: 14px;
     color: #5f6368;
     display: flex;
@@ -191,12 +191,14 @@ footer a {
 footer .footer-links {
     display: flex;
     gap: 15px;
+    margin: 20px;
 }
 
 footer .footer-links a {
     text-decoration: none;
     color: #5f6368;
     padding: 5px;
+    
 }
 
 footer .footer-links a:hover {
